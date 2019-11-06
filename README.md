@@ -8,19 +8,19 @@
 
 ## What is this?
 
-We ask our JavaScript candidates to take this test as part of our recruitment process. This is step one. If we like your submission we will invite you in for (probably one) technical interview where we will have a chat and ask you to do some pair programming. 
+We ask our JavaScript candidates to take this test as part of our recruitment process. This is step one. If we like your submission we will invite you in for (probably one) technical interview where we will have a chat and ask you to do some pair programming.
 
 ### What should it do?
 
 Your task is to write a React application that displays the current mix of energy generation in the UK (i.e. how much nuclear, wind, solar etc.).
 
-We have provided an empty React app to get you started - it is pre-configured with Babel and Webpack to get you up and running with no fuss. Details of an API that you can call to load the data that you should display are provided below. 
+We have provided an empty React app to get you started - it is pre-configured with Babel and Webpack to get you up and running with no fuss. Details of an API that you can call to load the data that you should display are provided below.
 
 ### How should it work?
 
-Definitely using React! 
+Definitely using React!
 
-How you decide to load and show the data is entirely up to you. 
+How you decide to load and show the data is entirely up to you.
 You are free to use any libraries that you want (via `npm`) and you can choose how you wish to display the data. Some suggestions are:
 
 * Huge numbers
@@ -33,7 +33,7 @@ You are free to use any libraries that you want (via `npm`) and you can choose h
 * If you haven't already, fork our GitHub project
 * Get the dependencies - `npm install`
 * Run the app - `npm start` - it will be available at http://localhost:8080
-* Write your code, starting with `app.jsx`
+* Write your code, starting with `App.tsx`
 
 ### Where can I find the UK energy generation data?
 
@@ -59,7 +59,7 @@ An existing website that shows this data is here: https://gridwatch.co.uk/
 * We really like TDD
 * We like TypeScript too
 * We like simplicity - a more complicated solution is rarely better than a simple one
-* Some types of chart seem like a really obvious fit but are not actually very good at showing small values in a data set 
+* Some types of chart seem like a really obvious fit but are not actually very good at showing small values in a data set
 
 ## Finishing
 

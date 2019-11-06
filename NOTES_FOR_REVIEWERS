@@ -1,0 +1,10 @@
+I used d3 to create the graphics
+
+I have changed dependencies to add hot reloading with TypeScript. Otherwise the key commands to run the project stay the same:
+
+1) npm i
+2) npm run start
+3) npm run test
+
+I made d3 UI components reusabe by adapting the data returned by the Energy Mix service to a common type with `name` and `value` fields
+replacing `fuel` and `perc`.
